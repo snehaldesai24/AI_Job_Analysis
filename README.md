@@ -50,6 +50,3 @@ This dashboard solves these challenges by offering **clear insights** into the A
 2. Interact with filters (year, industry, job title, salary range).  
 3. Explore salary, job posting, and remote work insights across industries.  
 
----
-
-## 📂 Repository Structure
